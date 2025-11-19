@@ -1,0 +1,17 @@
+body {
+    margin: 10px;
+}
+
+#search-input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#search-btn {
+    display: block;
+    margin-bottom: 20px;
+}
+
+img {
+    display: none;
+}
